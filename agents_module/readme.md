@@ -13,7 +13,7 @@ The pipeline integrates:
 ---
 
 ## 🗂️ Workflow Diagram
-![Agentic RAG Workflow](aef14b6c-bf21-4017-bcb5-fb24962a6685.png)
+![Agentic RAG Workflow](Screenshot 2025-08-11 113920.png)
 
 ---
 
